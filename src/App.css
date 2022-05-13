@@ -16,7 +16,7 @@
 .app-wrapper{
   background-color: #272727;
   min-height:550px;
-  min-width: 380px;
+  min-width: 480px;
   padding: 30px;
   box-sizing: border-box;
   border-radius: 10px;
@@ -53,17 +53,18 @@
   font-size: 20px;
   border-radius: 10px;
   border: 0;
-  background-color: #f59936;
+  background-color: #007bff;
   cursor: pointer;
 }
 
 .list-item{
   display: flex;
   margin: 20px 0;
-  border: 1px solid #ccc;
+  border: 1px solid #007bff;
   border-radius: 10px;
   padding: 10px;
   max-height: 30px;
+  background-color: #0c00b800;
 }
 
 .button-complete,
@@ -102,7 +103,7 @@ margin-right: 10px;
 
 .list{
   width: 220px;
-  background-color: #175603;
+  background-color: #16560300;
   border: none;
   color: #ccc;
   font-size: 20px;
