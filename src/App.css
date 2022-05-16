@@ -4,7 +4,7 @@
 }
 
 .container{
-  background: linear-gradient(to right bottom,#e1b382,#f59936);
+  background: linear-gradient(to right bottom,#107CA3,#70d7fc);
   width: 100%;
   min-height: 100vh;
   display: flex;
@@ -53,14 +53,14 @@
   font-size: 20px;
   border-radius: 10px;
   border: 0;
-  background-color: #007bff;
+  background-color: #F0E318;
   cursor: pointer;
 }
 
 .list-item{
   display: flex;
   margin: 20px 0;
-  border: 1px solid #007bff;
+  border: 1px solid #F0E318;
   border-radius: 10px;
   padding: 10px;
   max-height: 30px;
@@ -84,7 +84,7 @@ margin-right: 10px;
 }
 
 .button-delete{
-  color: #ff0055;
+  color: #F01A4B;
 
 
 }
